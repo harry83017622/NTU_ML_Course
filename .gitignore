@@ -1,1 +1,8 @@
 data
+food-11*
+.vscode
+*.ckpt
+*runs
+timit_11
+models
+*.csv
